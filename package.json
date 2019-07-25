@@ -4,5 +4,6 @@
   "description": "Webpack Plugin that outputs build stats to a JSON file, without storing it in memory.",
   "main": "index.js",
   "author": "Joe Fender",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/fender/webpack-stats-disk-plugin"
 }
