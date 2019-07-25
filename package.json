@@ -1,0 +1,8 @@
+{
+  "name": "webpack-stats-disk-plugin",
+  "version": "1.0.0",
+  "description": "Webpack Plugin that outputs build stats to a JSON file, without storing it in memory.",
+  "main": "index.js",
+  "author": "Joe Fender",
+  "license": "MIT"
+}
